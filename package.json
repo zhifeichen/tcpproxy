@@ -1,0 +1,12 @@
+{
+  "name": "tcpproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_EVN=production && node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
